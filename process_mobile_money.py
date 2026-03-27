@@ -139,7 +139,7 @@ def process_demographics(path):
 def main():
     print("=" * 60)
     print("  MoMo Transaction Anonymizer  (v3)")
-    print("  CSC 3221 | ICT University | Fanyi Charlson")
+    print("  CSC 3221 | ICT University | Adrien Tello")
     print("=" * 60)
 
     print("\nWhat would you like to do?")
